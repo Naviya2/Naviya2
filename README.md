@@ -9,7 +9,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-### How to contact me 🤔
+### How To Contact Me 🤔
 
 <p align="center">   
     <a href="https://instagram.com/_____na_vi_ya_____">
@@ -36,8 +36,11 @@
 
 ---
 
+### Trophies ❤😏
+
 <p align="center"><img alt="profile-trophy" width="100%" src="https://github-profile-trophy.vercel.app/api?username=Naviya2"/></p>
 
 ---
+### My Stats 🇱🇰
 
 <img src="https://github-readme-stats.vercel.app/api?username=Naviya2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
