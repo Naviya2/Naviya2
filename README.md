@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @Naviya2 🇱🇰
+- ###     Hi 👋 , I’m @Naviya2 🇱🇰
 - 👀 I’m interested in Bot Developing🧑‍💻
 - 🌱 I’m currently learning python 🙃
 - 💞️ I’m working on Leo Projects 🇱🇰
 
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naviya2&label=Profile%20views&color=0e75b6&style=plastic" alt="Naviya2" /> </p>
+
+---
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+---
 
 ### How To Contact Me 🤔
 
