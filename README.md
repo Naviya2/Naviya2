@@ -1,4 +1,4 @@
-   - ### Hi 👋 , I’m @Naviya2 🇱🇰
+   ### <h>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I’m @Naviya2</h> 🇱🇰
 - 👀 I’m interested in Bot Developing🧑‍💻
 - 🌱 I’m currently learning python 🙃
 - 💞️ I’m working on Leo Projects 🇱🇰
