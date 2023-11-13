@@ -35,7 +35,7 @@
 
 ---
 
-### Trophies ❤😏
+
 
 <p align="center"><img alt="profile-trophy" width="100%" src="https://github-profile-trophy.vercel.app/api?username=Naviya2&row=1"/></p>
 
