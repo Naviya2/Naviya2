@@ -26,11 +26,6 @@
              alt="Telegram"
         >
     </a>
-    <a href="https://paypal.me/dilnavi">
-        <img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
-             alt="PayPal"
-        >
-    </a>
 </p>
 
 ---
