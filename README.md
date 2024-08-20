@@ -17,7 +17,7 @@
         >
     </a>
     <a href="https://facebook.com/navindu.dilmin.3">
-        <img src="https://img.shields.io/badge/facebook-white?&style=for-the-badge&logo=facebook&color=blue"
+        <img src="https://img.shields.io/badge/facebook-white?&style=for-the-badge&logo=facebook&logoColor=blue"
              alt="Facebook"       
         >
     </a>
