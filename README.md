@@ -16,9 +16,9 @@
              alt="Instagram"   
         >
     </a>
-    <a href="https://github.com/Naviya2">
-        <img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black"
-             alt="GitHub"       
+    <a href="https://facebook.com/navindu.dilmin.3">
+        <img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=facebookk"
+             alt="Facebook"       
         >
     </a>
     <a href="https://telegram.me/naviya2">
