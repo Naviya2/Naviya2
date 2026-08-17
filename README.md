@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Navindu Dilmin
+# 👋 Hi I'm Navindu Dilmin
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Software+Engineer+Undergraduate;Web+Developer;Telegram+Bot+Developer;Full-Stack+Developer" alt="Typing SVG" />
@@ -9,8 +9,9 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Engineering%20Undergraduate-2EA3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SLIIT-2EA3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-2EA3F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-SLIIT-2EA3F7?style=flat-square" />
+
 </p>
 
 <p>
@@ -203,7 +204,7 @@ Collaborative academic software project focused on building a structured platfor
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Naviya2&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS" />
+
 
 <br/><br/>
 
