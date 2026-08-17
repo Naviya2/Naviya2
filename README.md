@@ -1,24 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm Navindu Dilmin
+# 👋 Navindu Dilmin
 
-### Software Engineering Undergraduate · Full-Stack Developer · Backend Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Software+Engineer+Undergraduate;Web+Developer;Telegram+Bot+Developer;Full-Stack+Developer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Engineering%20Undergraduate-2EA3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLIIT-2EA3F7?style=for-the-badge" />
+</p>
 
 <p>
   <a href="https://github.com/Naviya2">
-    <img src="https://img.shields.io/badge/GitHub-Naviya2-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Naviya2-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://telegram.me/naviya2">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/_____na_vi_ya_____">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📍%20Sri%20Lanka-2EA3F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓%20SLIIT-2EA3F7?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Naviya2&style=flat-square&color=2EA3F7&label=Profile+Views" />
 </p>
 
@@ -28,34 +35,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering undergraduate at SLIIT** with a strong interest in building practical, scalable, and user-focused software.
+I'm a **Software Engineering undergraduate at SLIIT** from Sri Lanka, passionate about building practical and reliable software.
 
-I enjoy working across the stack — from designing backend APIs and databases to building web applications and automation tools.
+My interests cover **full-stack development, backend engineering, automation, and Telegram bot development**. I enjoy turning ideas into functional applications while continuously improving my software engineering skills.
 
-* 🎓 Software Engineering Undergraduate at **SLIIT**
-* 💻 Interested in **Full-Stack & Backend Development**
-* 🤖 Building and deploying **Telegram Bots**
-* ☕ Working with **Java & Spring / Java Web Technologies**
-* 🐍 Building backend services and automation with **Python**
-* 🌐 Exploring modern **Web Technologies**
-* 🐳 Learning containerization and deployment with **Docker**
-* 🤝 Open to **collaboration, open-source projects, and interesting ideas**
+* 🎓 Software Engineering Undergraduate at SLIIT
+* 💻 Full-Stack & Backend Development
+* 🤖 Telegram Bot Development & Automation
+* ☕ Java Web Development
+* 🐍 Python Development
+* 🌐 Modern Web Technologies
+* 🗄️ Database-driven Applications
+* 🐳 Docker & Deployment
+* 🤝 Open to collaboration and interesting projects
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
+
+<br/><br/>
 
 ### Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,react&theme=dark" />
 
-### Databases & DevOps
+<br/><br/>
+
+### Database, Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github&theme=dark" />
 
@@ -65,43 +77,75 @@ I enjoy working across the stack — from designing backend APIs and databases t
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Naviya2/LeoMediaSearchBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naviya2&repo=LeoMediaSearchBot&theme=tokyonight&hide_border=true" width="420" />
-</a>
+### 🤖 LeoMediaSearchBot
 
-<a href="https://github.com/Nadeesha-D-Shalom/Structal_Q-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadeesha-D-Shalom&repo=Structal_Q-platform&theme=tokyonight&hide_border=true" width="420" />
-</a>
+Telegram-based media search and download bot built with Python.
 
-</div>
+**Features**
 
-### 📌 LeoMediaSearchBot
+* 🔎 Media searching
+* 📥 Media downloading
+* 🤖 Telegram automation
+* 🗄️ Database integration
+* ⚡ Async backend processing
 
-A Telegram-based media search and download bot built with Python, designed to provide users with an easy way to search and access media through Telegram.
+**Tech Stack**
 
-**Tech:** Python · Pyrogram · MongoDB · Telegram Bot API
-
-### 📌 Structal Q Platform
-
-A collaborative academic project focused on building a structured platform for managing and interacting with project-related functionality.
-
-**Tech:** Java · Web Technologies · Database
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naviya2&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naviya2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="48%" />
+`Python` `Pyrogram` `MongoDB` `Telegram Bot API`
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Naviya2&theme=tokyonight&hide_border=true" width="70%" />
+<a href="https://github.com/Naviya2/LeoMediaSearchBot">
+  <img src="https://img.shields.io/badge/View%20Repository-2EA3F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Structal Q Platform
+
+Collaborative academic software project focused on building a structured platform for managing project-related functionality.
+
+**Highlights**
+
+* 🖥️ Web application
+* 🔐 Backend functionality
+* 🗄️ Database integration
+* 👥 Collaborative development
+* ☕ Java-based development
+
+**Tech Stack**
+
+`Java` `Web Technologies` `Database`
+
+<br/>
+
+<a href="https://github.com/Nadeesha-D-Shalom/Structal_Q-platform">
+  <img src="https://img.shields.io/badge/View%20Repository-2EA3F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naviya2&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naviya2&theme=tokyonight" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naviya2&theme=tokyonight" width="96%" />
 
 </div>
 
@@ -111,44 +155,44 @@ A collaborative academic project focused on building a structured platform for m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naviya2&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naviya2&theme=tokyo-night&hide_border=true&area=true" width="96%" />
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Working On
+## 🎯 Currently Learning & Building
 
-```text
-🔹 Full-Stack Web Applications
-🔹 Backend API Development
-🔹 Telegram Bot Development
-🔹 Java & Python Projects
-🔹 Database-driven Applications
-🔹 Docker & Deployment
-🔹 Software Engineering Projects
-```
+<div align="center">
+
+|   💻 Development  |   🤖 Automation   |    ⚙️ Engineering   |
+| :---------------: | :---------------: | :-----------------: |
+|  Full-Stack Apps  |   Telegram Bots   |      REST APIs      |
+|  Backend Systems  | Python Automation |   Database Design   |
+| Java Applications |  Async Processing | Docker & Deployment |
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Naviya2">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Naviya2-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://telegram.me/naviya2">
-  <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-@naviya2-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://facebook.com/navindu.dilmin.3">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-Navindu%20Dilmin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/_____na_vi_ya_____">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-_____na_vi_ya_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -157,8 +201,12 @@ A collaborative academic project focused on building a structured platform for m
 
 <div align="center">
 
-### 💬 "Build it. Break it. Learn from it. Build it better."
+### 💙 Thanks for visiting my profile!
 
-⭐ If you find something interesting here, feel free to explore my repositories!
+<img src="https://komarev.com/ghpvc/?username=Naviya2&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
