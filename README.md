@@ -95,7 +95,17 @@ My interests cover **full-stack development, backend engineering, automation, an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naviya2&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Naviya2 Contribution Graph" />
+<!-- Primary contribution graph (GitHub Stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naviya2&theme=tokyonight" width="96%" alt="Naviya2 Contribution Graph" />
+
+<br/><br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake.svg" width="96%" />
+</picture>
 
 </div>
 
@@ -104,7 +114,6 @@ My interests cover **full-stack development, backend engineering, automation, an
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---

@@ -1,9 +1,9 @@
-﻿name: Update README Activity
+name: Update README Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # every 6 hours (GitHub won't throttle this)
+  workflow_dispatch:          # allows manual trigger from Actions tab
 
 permissions:
   contents: write
@@ -23,3 +23,5 @@ jobs:
         with:
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
+          README_FILE: "README.md"
+          TARGET_COMMENTS_FILE: "README.md"
