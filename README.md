@@ -83,10 +83,6 @@ My interests cover **full-stack development, backend engineering, automation, an
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naviya2&theme=tokyonight" width="48%" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naviya2&theme=tokyonight" width="96%" />
-
 </div>
 
 ---
