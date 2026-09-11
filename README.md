@@ -91,11 +91,11 @@ My interests cover **full-stack development, backend engineering, automation, an
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution History
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naviya2&theme=tokyonight&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naviya2&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Naviya2 Contribution Graph" />
 
 </div>
 
