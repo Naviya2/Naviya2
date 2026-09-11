@@ -96,12 +96,13 @@ My interests cover **full-stack development, backend engineering, automation, an
 
 <br/><br/>
 
-<!-- Snake contribution animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Naviya2/Naviya2/output/github-contribution-grid-snake.svg" width="96%" />
-</picture>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Naviya2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="96%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Naviya2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="96%" alt="GitHub Trophies" />
 
 </div>
 
