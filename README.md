@@ -11,7 +11,6 @@
 <p>
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-2EA3F7?style=flat-square" />
   <img src="https://img.shields.io/badge/University-SLIIT-2EA3F7?style=flat-square" />
-
 </p>
 
 <p>
@@ -70,69 +69,9 @@ My interests cover **full-stack development, backend engineering, automation, an
 
 ### Database, Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,linux,git,github&theme=dark" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 LeoMediaSearchBot
-
-Telegram-based media search and download bot built with Python.
-
-**Features**
-
-* 🔎 Media searching
-* 📥 Media downloading
-* 🤖 Telegram automation
-* 🗄️ Database integration
-* ⚡ Async backend processing
-
-**Tech Stack**
-
-`Python` `Pyrogram` `MongoDB` `Telegram Bot API`
-
-<br/>
-
-<a href="https://github.com/Naviya2/LeoMediaSearchBot">
-  <img src="https://img.shields.io/badge/View%20Repository-2EA3F7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 Structal Q Platform
-
-Collaborative academic software project focused on building a structured platform for managing project-related functionality.
-
-**Highlights**
-
-* 🖥️ Web application
-* 🔐 Backend functionality
-* 🗄️ Database integration
-* 👥 Collaborative development
-* ☕ Java-based development
-
-**Tech Stack**
-
-`Java` `Web Technologies` `Database`
-
-<br/>
-
-<a href="https://github.com/Nadeesha-D-Shalom/Structal_Q-platform">
-  <img src="https://img.shields.io/badge/View%20Repository-2EA3F7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -158,11 +97,15 @@ Collaborative academic software project focused on building a structured platfor
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naviya2&theme=tokyonight&hide_border=true" width="96%" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naviya2&theme=tokyo-night&hide_border=true&area=true" width="96%" />
-
 </div>
+
+---
+
+## ⚡ Recent Activities
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 
@@ -170,11 +113,12 @@ Collaborative academic software project focused on building a structured platfor
 
 <div align="center">
 
-|   💻 Development  |   🤖 Automation   |    ⚙️ Engineering   |
-| :---------------: | :---------------: | :-----------------: |
-|  Full-Stack Apps  |   Telegram Bots   |      REST APIs      |
-|  Backend Systems  | Python Automation |   Database Design   |
-| Java Applications |  Async Processing | Docker & Deployment |
+|   💻 Development   |   🤖 Automation   |    ⚙️ Engineering   |
+| :----------------: | :---------------: | :-----------------: |
+|   Full-Stack Apps  |   Telegram Bots   |      REST APIs      |
+|   Backend Systems  | Python Automation |   Database Design   |
+|  Java Applications |  Async Processing | Docker & Deployment |
+| React Applications |  Bot Development  |    Cloud & DevOps   |
 
 </div>
 
@@ -208,9 +152,7 @@ Collaborative academic software project focused on building a structured platfor
 
 ### 💙 Thanks for visiting my profile!
 
-
-
-<br/><br/>
+<br/>
 
 ⭐ Feel free to explore my repositories and connect with me!
 
