@@ -111,10 +111,10 @@ My interests cover **full-stack development, backend engineering, automation, an
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#36](https://github.com/Naviya2/ChargeSync-Platform/pull/36) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
-2. 🗣 Commented on [#36](https://github.com/Naviya2/ChargeSync-Platform/pull/36#issuecomment-5884629424) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
-3. 🎉 Merged PR [#35](https://github.com/Naviya2/ChargeSync-Platform/pull/35) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
-4. ℹ️ Labeled PR [#35](https://github.com/Naviya2/ChargeSync-Platform/pull/35) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
+1. 🎉 Merged PR [#39](https://github.com/Naviya2/ChargeSync-Platform/pull/39) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
+2. ℹ️ Labeled PR [#39](https://github.com/Naviya2/ChargeSync-Platform/pull/39) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
+3. ℹ️ Assigned PR [#39](https://github.com/Naviya2/ChargeSync-Platform/pull/39) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
+4. 💪 Opened PR [#39](https://github.com/Naviya2/ChargeSync-Platform/pull/39) in [Naviya2/ChargeSync-Platform](https://github.com/Naviya2/ChargeSync-Platform)
 <!--END_SECTION:activity-->
 
 ---
